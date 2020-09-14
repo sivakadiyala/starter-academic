@@ -32,6 +32,24 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "C"
+  description = "10%"
+
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Java"
+  description = "10%"
+
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Oracle"
+  description = "10%"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
