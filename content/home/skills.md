@@ -42,13 +42,13 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Java"
-  description = "10%"
+  description = "20%"
 
   [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Oracle"
-  description = "10%"
+  description = "30%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
